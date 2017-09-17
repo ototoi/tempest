@@ -3,5 +3,5 @@
  
  All of the classes in this library are implemented by using C++ templete.
  
- so you can use them for just including header files.
+ So you can use them for just including header files.
  
